@@ -1,6 +1,6 @@
 # My Portfolio Projects for Full Stack Developer for Microsoft
 
-<details open>
+<details>
 
 <summary>Control Structures</summary>
 
