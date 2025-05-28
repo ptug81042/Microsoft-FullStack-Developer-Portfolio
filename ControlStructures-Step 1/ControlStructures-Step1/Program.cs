@@ -4,7 +4,7 @@
 int age;
 
 // Prompt the user to enter their age using Console.WriteLine and capture the input using Console.ReadLine().
-Console.WriteLine("Enter your age: ");
+Console.WriteLine("Enter your age:");
 
 // Use int.Parse() to convert the input string into an integer and store it in the age variable.
 age = int.Parse(Console.ReadLine());
@@ -17,7 +17,7 @@ if (age < 12)
 {
     Console.WriteLine("Half price ticket.");
 }
-else if (age < 65)
+else if (age <= 65)
 {
     Console.WriteLine("Full price ticket.");
 }
