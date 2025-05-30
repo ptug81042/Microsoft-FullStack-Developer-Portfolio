@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RepetitiveTasksLoop-Step2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0ddabb2c7ec08b9f94e435348e126d0b507eb0b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2bdb7c21c01c3c3268299d28b1c29693bc79476")]
 [assembly: System.Reflection.AssemblyProductAttribute("RepetitiveTasksLoop-Step2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RepetitiveTasksLoop-Step2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
