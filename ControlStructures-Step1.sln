@@ -23,6 +23,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RepetitiveTasksLoop-Step3",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepetitiveTasksLoop-Step3", "RepetitiveTasksLoop-Step3\RepetitiveTasksLoop-Step3\RepetitiveTasksLoop-Step3.csproj", "{5B8C392E-70E1-45B7-8BCF-29F7585B70A3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RepetitiveTasksLoop-Step4", "RepetitiveTasksLoop-Step4", "{AAF8522E-0075-25D6-B934-D47CA1742285}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepetitiveTasksLoop-Step4", "RepetitiveTasksLoop-Step4\RepetitiveTasksLoop-Step4\RepetitiveTasksLoop-Step4.csproj", "{EF4EFF7B-402B-4185-9B63-6117D4A9EFD1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,18 @@ Global
 		{5B8C392E-70E1-45B7-8BCF-29F7585B70A3}.Release|x64.Build.0 = Release|Any CPU
 		{5B8C392E-70E1-45B7-8BCF-29F7585B70A3}.Release|x86.ActiveCfg = Release|Any CPU
 		{5B8C392E-70E1-45B7-8BCF-29F7585B70A3}.Release|x86.Build.0 = Release|Any CPU
+		{EF4EFF7B-402B-4185-9B63-6117D4A9EFD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF4EFF7B-402B-4185-9B63-6117D4A9EFD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF4EFF7B-402B-4185-9B63-6117D4A9EFD1}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{EF4EFF7B-402B-4185-9B63-6117D4A9EFD1}.Debug|x64.Build.0 = Debug|Any CPU
+		{EF4EFF7B-402B-4185-9B63-6117D4A9EFD1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EF4EFF7B-402B-4185-9B63-6117D4A9EFD1}.Debug|x86.Build.0 = Debug|Any CPU
+		{EF4EFF7B-402B-4185-9B63-6117D4A9EFD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF4EFF7B-402B-4185-9B63-6117D4A9EFD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF4EFF7B-402B-4185-9B63-6117D4A9EFD1}.Release|x64.ActiveCfg = Release|Any CPU
+		{EF4EFF7B-402B-4185-9B63-6117D4A9EFD1}.Release|x64.Build.0 = Release|Any CPU
+		{EF4EFF7B-402B-4185-9B63-6117D4A9EFD1}.Release|x86.ActiveCfg = Release|Any CPU
+		{EF4EFF7B-402B-4185-9B63-6117D4A9EFD1}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -103,5 +119,6 @@ Global
 		{CCC70A95-7173-409C-87EC-8E7A266DE544} = {29EDAE38-71BE-5508-9F7B-D15E72176F72}
 		{1BA00F4C-C400-41B3-9119-E252C05D5C9A} = {4062C77F-B7A7-D7C3-557F-AAFDAC896029}
 		{5B8C392E-70E1-45B7-8BCF-29F7585B70A3} = {5218CDA7-547D-1CC2-74B2-7D3478B1D652}
+		{EF4EFF7B-402B-4185-9B63-6117D4A9EFD1} = {AAF8522E-0075-25D6-B934-D47CA1742285}
 	EndGlobalSection
 EndGlobal
